@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @9jaNinja-dev
 - 👀 I’m interested in learning coding mainly python and mysql
 - 🌱 I’m currently looking for ways to learn 
-- 💞️ I’m looking to collaborateand open to being mentored
+- 💞️ I’m looking to collaborate and open to being mentored
 - 📫 How to reach me ...
 - Im a network engineer and will like to expand my horizon
 <!---
